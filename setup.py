@@ -41,5 +41,6 @@ setup(
     install_requires=[
         'Flask==0.10.1',
         'requests==2.10.0',
+        'urlparse2=1.1.1',
     ]
 )
