@@ -39,8 +39,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'Flask==0.10.1',
-        'requests==2.10.0',
-        'urlparse2=1.1.1',
+        'Flask==0.12.2',
+        'requests==2.18.4',
     ]
 )
